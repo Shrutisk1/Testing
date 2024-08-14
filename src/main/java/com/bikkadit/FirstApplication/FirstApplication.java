@@ -12,6 +12,13 @@ public class FirstApplication {
    
 	//priority work
 	public String ImpWork() {
-		return "task completed";
+		return "task completing";	
 	}
+	
+	public String Task() {
+		return "task completed";
+		
+	}
+	
+	
 }
