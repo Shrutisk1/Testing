@@ -5,10 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FirstApplication {
-
+      
 	public static void main(String[] args) {
 		SpringApplication.run(FirstApplication.class, args);
 	}
+
    
 	//priority work
 	public String ImpWork() {
@@ -21,4 +22,12 @@ public class FirstApplication {
 	}
 	
 	
+
+	
+	//afternoon work
+	public String demo1() {
+		return "task running";
+	}
+
+
 }
