@@ -9,5 +9,9 @@ public class FirstApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstApplication.class, args);
 	}
-
+   
+	//priority work
+	public String ImpWork() {
+		return "task completed";
+	}
 }
