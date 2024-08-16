@@ -5,5 +5,6 @@ public class MorningTask {
 	//morning task
 		public String demo() {
 			return "Welcome";
+			
 		}
 }
