@@ -17,5 +17,9 @@ public class EvenOdd {
 	public void developMethod() {
 		System.out.println("develop method");
 	}
+	
+	public void d1() {
+		System.out.println("d1");
+	}
 
 }
