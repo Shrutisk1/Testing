@@ -18,4 +18,7 @@ public class EvenOdd {
 		System.out.println("qa method");
 	}
 
+	public void q1() {
+		System.out.println("q1");
+	}
 }
