@@ -16,6 +16,9 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	public void QAChanges() {
 	     System.out.println("QA changes");
 	}
+	public void QA1Changes() {
+	     System.out.println("QA1 changes");
+	}
 
 
 }
