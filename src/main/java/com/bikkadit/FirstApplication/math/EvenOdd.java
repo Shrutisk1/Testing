@@ -14,15 +14,12 @@ public class EvenOdd {
 		
 	}
 	
-	public void developMethod() {
-		System.out.println("develop method");
-	}
-	
-	public void d1() {
-		System.out.println("d1");
+	public void qaMethod() {
+		System.out.println("qa method");
 	}
 
 	public void q1() {
 		System.out.println("q1");
 	}
+	
 }
