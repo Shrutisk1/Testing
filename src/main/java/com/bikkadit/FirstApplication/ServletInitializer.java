@@ -16,15 +16,12 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	public void QAChanges() {
 	     System.out.println("QA changes");
 	}
-<<<<<<< HEAD
 	public void QA1Changes() {
 	     System.out.println("QA1 changes");
 	}
 
-=======
 	public void developChanges1() {
 	     System.out.println("Developer changes1");
 		}
->>>>>>> 2679ed7 (V1:B-12345, d11)
 
 }
