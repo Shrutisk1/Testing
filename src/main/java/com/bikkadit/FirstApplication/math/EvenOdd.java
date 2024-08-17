@@ -14,8 +14,8 @@ public class EvenOdd {
 		
 	}
 	
-	public void qaMethod() {
-		System.out.println("qa method");
+	public void developMethod() {
+		System.out.println("develop method");
 	}
 
 }
