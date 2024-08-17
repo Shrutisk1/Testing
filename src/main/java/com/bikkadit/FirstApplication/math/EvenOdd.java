@@ -22,4 +22,7 @@ public class EvenOdd {
 		System.out.println("d1");
 	}
 
+	public void q1() {
+		System.out.println("q1");
+	}
 }
